@@ -1,1 +1,1 @@
-echo  0s executable
+echo  %0 executable
