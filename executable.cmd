@@ -1,1 +1,1 @@
-echo  %0 executable
+echo executable.cmd

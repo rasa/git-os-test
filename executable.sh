@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-echo $0 is executable
+#!/bin/sh
+echo executable.sh
